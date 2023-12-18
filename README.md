@@ -1,3 +1,4 @@
 # StefanovskiOgnjen-PIT
-Stefanovski Ognjen III₂
+Stefanovski Ognjen 
 ŠC "Nikola Tesla"
+III₂
